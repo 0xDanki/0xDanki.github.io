@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "0x",
   middleName: "",
   lastName: "Danki",
-  message: " Functional and Secure Smart Contracts ",
+  message: "DevRel / Developer Marketing / Ecosystem Developer",
   icons: [
     {
       image: "fa-github",

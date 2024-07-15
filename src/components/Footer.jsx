@@ -17,7 +17,7 @@ const Footer = (props) => {
             0xDanki
           </span>
         </a>{" "}
-        using <i className="fas fa-react" />
+        using React <i className="fas fa-react" />
         <p>
           <small className="text-muted">
             Let's build your web3 project!
